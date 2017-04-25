@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">L\' AUTRE MONDE</string>
+    <string name="l_autre_monde">L\' AUTRE MONDE</string>
+    <string name="Adresse">Rue Hors-Château 20, B-4000 Liège</string>
+    <string name="Phone">+32 4 221 41 10</string>
+    <string name="Activity">Shop for Role Playing Games,\nBoard Games and Miniatures</string>
+    <string name="website">www.autre-monde.be</string>
+    <string name="facebook">L\' Autre Monde</string>
+    <string name="mail">info@autre-monde.be</string>
+</resources>
